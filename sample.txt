@@ -1,0 +1,10 @@
+Weapons, Health, Armor Money	IMAGE
+
+LXGIWYL = Weapon Set 1, Thug's Tools
+PROFESSIONALSKIT = Weapon Set 2, Professional Tools
+UZUMYMW = Weapon Set 3, Nutter Tools
+HESOYAM = Health, Armor, $250k
+BAGUVIX = Semi-Infinite Health
+CVWKXAM = Infinite Oxygen
+ANOSEONGLASS = Adrenaline Mode
+FULLCLIP = Infinite Ammo, No Reload
